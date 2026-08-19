@@ -1,0 +1,12 @@
+*.pyc
+__pycache__/
+.venv/
+venv/
+env/
+.vscode/
+*.exe
+*.out
+*.o
+*.obj
+math/
+tempCodeRunnerFile.py
