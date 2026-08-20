@@ -17,7 +17,7 @@ I am building this repository to strengthen my programming fundamentals and prep
 | Chapter 3 | Strings                | ✅ Completed   |
 | Chapter 4 | Lists & Tuples         | ✅ Completed   |
 | Chapter 5 | Sets & Dictionaries    | ✅ Completed   |
-| Chapter 6 | Conditional Statements | ⏳ In Progress |
+| Chapter 6 | Conditional Statements | ✅ Completed |
 
 ---
 
@@ -78,6 +78,7 @@ This chapter will contain programs related to:
 * `elif`
 * Nested conditions
 * Conditional problem solving
+* Practice problems
 
 ---
 
